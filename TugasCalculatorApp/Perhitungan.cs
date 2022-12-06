@@ -8,8 +8,6 @@ namespace TugasCalculatorApp
 {
     public class Perhitungan
     {
-        public int nilaiA { set; get; }
-        public int nilaiB { set; get; }
         public string hasil { set; get; }
     }
 }
